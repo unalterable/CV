@@ -1,16 +1,16 @@
 ## Oliver Diamond
 
-[About](#oliver-diamond)| [Skills](#skills--characteristics) | [Education](#education) | [Experience](#experience)|  [Interests](#interests)
+[About](#oliver-diamond) | [Skills](#skills--characteristics) | [Education](#education) | [Experience](#experience)|  [Interests](#interests)
 
 A man of science and tech, who broke free from a musical education to study physics and computers. After my degree, I got lost for 8 years in the wildernesses of politics, finance, film, tv, and theatre. But I found my way back.
 After attending Makers Academy, an intense coding dev bootcamp, I turned the amateur-level skills of an enthusiastic hobbyist into those of a full-stack developer. I have accelerated my learning process for new technologies, honed the skills and values that make a professional programmer, and have come to truly love the developer community.
 
 
 ## Skills & Characteristics
-#### Coding
+### Coding
 I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and NodeJS. I also Have effective experience with HTML, CSS, & PHP.
 
-- **My attitude towards coding:**  
+- ###### My attitude towards coding  
 I have always loved learning about new technologies since age 14 when I taught myself PHP so I could join my older friends. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
 In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux, while my colleagues all used Macs. I love making little gadgets and widgets.
 
@@ -25,14 +25,14 @@ In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Pyt
 | Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a political email | Java, Eclipse, XML | Alone (without training)
 
 
-#### Politics (8 years)
+### Politics (8 years)
 For 8 years I worked for the Minister for the Digital and Cultural Economy, Rt. Hon. Ed Vaizey MP. I interned for 18 months (while finishing uni), and was hired straight out of university in 2008 (phew!) and was eventually promoted to the most snr member of his team in Parliament.
 
-#### Film, Theatre & TV Finance
+### Film, Theatre & TV Finance
 For 1.5 years, before joining Makers Academy, I worked for Bob & Co, a small agile finance & production company focussing on Film, Theatre & TV. I also spearheaded and supervised the upgrade of the entire company's IT infrastructure as it transitioned from a small to a medium sized business.
 One project in particular tried to develop a piece of creative content as a film/TV series, but on a mobile platform.
 
-#### Finance
+### Finance
 During my years in Westminster, I was afforded the opportunity for sabaticals in the private sector. I worked at a $13bn hedge fund, in the margin dept & the IT dept
 I also worked for a China-focussed event-driven brokerage, focussing on macro changes in the Chinese economy.
 
@@ -48,7 +48,7 @@ I also worked for a China-focussed event-driven brokerage, focussing on macro ch
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-**Physics 2:1 (BSc & ARCS): Imperial College London**
+**Physics 2:1 (BSc & ARCS: Imperial College London**
 (Oct 2005 to July 2008)  
 - Final Year Degree Project – received 93% for an investigation into the process of evolution using a computer simulation. Wrote the program from scratch, modelling biological systems. Praised particularly for the ability to analyse great amounts of data, to spot patterns and anomalies, present them accessibly and to quantify the results in a manner that the assessor, who worked in this field, had never seen before.
 - Physics Specialisations – Focussed on astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source. Wrote a thesis on the physical and political implications of the atom bomb on the 20th century.
