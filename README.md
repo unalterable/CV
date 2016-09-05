@@ -90,7 +90,16 @@ Wrote and researched policy documents on local and national issues; wrote speech
 *DIRECTOR*  
 Developed and maintained relationships with many key players in the arts, technology and creative sectors.
 
-**THE DIGITAL BAZAAR®, TATE SOUTH LAMBETH LIBRARY**
+**The Digital Bazaar®, Tate South Lambeth Library**
 (2009 - 2013)  
 *FOUNDING VOLUNTEER & IT EXPERT*  
 Teaching adults basic computer and technology use – we were runners-up for the [CILIP Libraries Change Lives Award 2012](http://www.cilip.org.uk/cilip/advocacy-awards-and-projects/awards-and-medals/libraries-change-lives-award/past-libraries).
+
+**MUSIC &amp; PUBLIC PERFORMANCES AS A CHORISTER**   
+Sang to grade 8, played the saxophone to a grade 7, the violin to grade 4, and the piano to grade 2. Received the only music scholarship to Abingdon School. Performed in Christ Church Cathedral Choir for over six years in cathedral services in Oxford, at St. Paul’s Cathedral (in front of HM The Queen), Birmingham ICC, Royal Albert Hall, Royal Festival Hall. Toured abroad to many places, including an extensive tour of the USA; and also Japan; Germany; France; and Brazil.
+
+**Tennis**  
+I'm a member of Wimbledon Lawn Tennis Club (not AELTC, but older). Plays regularly with a variety of partners and is coached professionally every week.
+
+**Cooking**  
+I love cooking and spend a great deal of time in the kitchen. Recipes are popular on [Instagram](http://instagram.com/diamondoliver).
