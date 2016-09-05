@@ -1,6 +1,6 @@
 ## Oliver Diamond
 
-[Skills](#skills&characteristics) | [Education](#education) | [Experience](#experience)|  [Interests](#interests)
+[About](#oliver-diamond)| [Skills](#skills--characteristics) | [Education](#education) | [Experience](#experience)|  [Interests](#interests)
 
 A man of science and tech, who broke free from a musical education to study physics and computers. After my degree, I got lost for 8 years in the wildernesses of politics, finance, film, tv, and theatre. But I found my way back.
 After attending Makers Academy, an intense coding dev bootcamp, I turned the amateur-level skills of an enthusiastic hobbyist into those of a full-stack developer. I have accelerated my learning process for new technologies, honed the skills and values that make a professional programmer, and have come to truly love the developer community.
@@ -48,9 +48,8 @@ I also worked for a China-focussed event-driven brokerage, focussing on macro ch
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-**Imperial College London**
+**Physics 2:1 (BSc & ARCS): Imperial College London**
 (Oct 2005 to July 2008)  
-Physics (BSc & ARCS) 2:1:  
 - Final Year Degree Project – received 93% for an investigation into the process of evolution using a computer simulation. Wrote the program from scratch, modelling biological systems. Praised particularly for the ability to analyse great amounts of data, to spot patterns and anomalies, present them accessibly and to quantify the results in a manner that the assessor, who worked in this field, had never seen before.
 - Physics Specialisations – Focussed on astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source. Wrote a thesis on the physical and political implications of the atom bomb on the 20th century.
 
@@ -85,7 +84,7 @@ Wrote and researched policy documents on local and national issues; wrote speech
 
 ## Interests
 
-*CURRENT:*  
+*Current:*  
 **CACIN - The Poltical Creative Industries Network**
 (2008 - present)  
 *DIRECTOR*  
