@@ -10,7 +10,7 @@ After attending Makers Academy, an intense coding dev bootcamp, I turned the ama
 ### Coding
 I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and NodeJS. I also Have effective experience with HTML, CSS, & PHP.
 
-- ###### My attitude towards coding  
+###### My attitude towards coding:
 I have always loved learning about new technologies since age 14 when I taught myself PHP so I could join my older friends. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
 In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux, while my colleagues all used Macs. I love making little gadgets and widgets.
 
