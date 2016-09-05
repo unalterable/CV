@@ -61,9 +61,14 @@ I also worked for a China-focussed event-driven brokerage, focussing on macro ch
 *HEAD OF COMMUNICATIONS, RESEARCH, AND DIGITAL*    
 Woking for a  small, independent developer, producer, and financier in film, TV, theatre, and other media sectors. Oversaw all publicly facing campaigns, all social media &amp; publicity efforts. Advised on company projects in the digital and technology sectors and produced in-depth research on investment opportunities. Also coded (and maintain) the Bob &amp; Co website, in addition to 4 other websites for company subsidiaries or projects. Became Acting Director of Operations during staff maternity leave, overseeing audit and efficiency measures in the IT, telecoms, and other office admin budgets.
 
+**Jet Trash Movie**
+(Aug 2015 - May 2016)  
+*DIGITAL CONSULTANT*  
+[IMDB](www.imdb.com/name/nm5829457/) Advising the film's producer on digital possibilities during post-production.
+
 **Office of the Minister for Creative & Digital Industries**
 (Nov 2008 - Nov 2014)  
-*SENIOR PARLIAMENTARY AIDE*  
+*SENIOR PARLIAMENTARY Advisor*  
 Managed the Parliamentary office of the Minster from the date of his appointment – interviewing, training and managing all junior staff and around 50 interns. Developed relationships with Whitehall officials and garnered many contacts in the media, communications, technology, and arts sectors. Also wrote the weekly e-mail from the Conservative Culture and Creative Industries Team, sent to ~4000+ stakeholders, describing &amp; analysing policy developments.  
 
 **North Square Blue Oak**
