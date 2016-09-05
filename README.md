@@ -45,7 +45,7 @@ I also worked for a China-focussed event-driven brokerage, focussing on macro ch
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
 **Physics 2:1 (BSc & ARCS): Imperial College London**
