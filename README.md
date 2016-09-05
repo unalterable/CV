@@ -14,9 +14,9 @@ I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, an
 I have always loved learning about new technologies since age 14 when I taught myself PHP so I could join my older friends. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
 In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux, while my colleagues all used Macs. I love making little gadgets and widgets.
 
-| Project | Summary | Technologies | Undertaken |
-|-|-|-|-|
-| [CACIN](http://cacin.co.uk) | A web app to organise a social network (event management, invitations, contact data maintainence) | Ruby on Rails, RSpec | Alone |
+| Project | Summary | Technologies | Undertaken |  
+|----|----|----|----|  
+| [CACIN](http://cacin.co.uk) | A web app to organise a social network (event management, invitations, contact data maintainence) | Ruby on Rails, RSpec | Alone |  
 | [Varys](https://github.com/unalterable/varys) | A TDD search engine (made in 1.5 weeks); my final group project at Makers Academy  | Ruby, Sinatra (Search Engine), Python, Scrapy (Web Spider), RSpec NoseTest  | Team of 4 Junior Devs & Pair Programming |
 | [Rails Enquiries](https://github.com/unalterable/rails_enquiries/commits/master) | A TDD Rails plugin gem (made in 4 days), designed to help developers understand how their Rails app fits together | Ruby on Rails | (Team Leader) Team of 4 Junior Devs with Pair Programming |
 | [MakersBnB](https://github.com/mtaner/airbnb) | A TDD clone of AirBnB | Ruby, Sinatra | Team of 4 with Pair Programming |
