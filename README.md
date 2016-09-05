@@ -65,7 +65,7 @@ A small, independent developer, producer, and financier in film, TV, theatre, an
 
 **Jet Trash Movie**
 (Aug 2015 - May 2016)  
-*DIGITAL CONSULTANT* - [IMDB](www.imdb.com/name/nm5829457/)  
+*DIGITAL CONSULTANT* - [IMDB](http://www.imdb.com/name/nm5829457/)  
 Advised the film's producer on digital possibilities during post-production.
 
 **Office of the Minister for Creative & Digital Industries**
