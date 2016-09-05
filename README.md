@@ -1,4 +1,4 @@
-## Oliver Diamond
+# Oliver Diamond
 
 [About](#oliver-diamond) | [Skills](#skills--characteristics) | [Education](#education) | [Experience](#experience)|  [Interests](#interests)
 
