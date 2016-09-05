@@ -63,8 +63,8 @@ Woking for a  small, independent developer, producer, and financier in film, TV,
 
 **Jet Trash Movie**
 (Aug 2015 - May 2016)  
-*DIGITAL CONSULTANT*  
-[IMDB](www.imdb.com/name/nm5829457/) Advising the film's producer on digital possibilities during post-production.
+*DIGITAL CONSULTANT* - [IMDB](www.imdb.com/name/nm5829457/)  
+Advising the film's producer on digital possibilities during post-production.
 
 **Office of the Minister for Creative & Digital Industries**
 (Nov 2008 - Nov 2014)  
