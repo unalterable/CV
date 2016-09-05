@@ -48,7 +48,7 @@ I also worked for a China-focussed event-driven brokerage, focussing on macro ch
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-**Physics 2:1 (BSc & ARCS: Imperial College London**
+**Physics 2:1 (BSc & ARCS): Imperial College London**
 (Oct 2005 to July 2008)  
 - Final Year Degree Project – received 93% for an investigation into the process of evolution using a computer simulation. Wrote the program from scratch, modelling biological systems. Praised particularly for the ability to analyse great amounts of data, to spot patterns and anomalies, present them accessibly and to quantify the results in a manner that the assessor, who worked in this field, had never seen before.
 - Physics Specialisations – Focussed on astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source. Wrote a thesis on the physical and political implications of the atom bomb on the 20th century.
