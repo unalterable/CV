@@ -28,10 +28,10 @@ In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Pyt
 | Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a political email | Java, Eclipse, XML | Alone (without training)
 
 ### Other Expertise
-For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for the Digital and Cultural Economy. My efforts would often span across a massive range of industries, organisations and issues. I have an excellent knowledge of the workings of Government, but also a particular understanding of the issues effecting the Digital & Cultural industries. Indeed, I continue to support a network designed to bring those issues to the attention of Government.
+For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for the Digital and Cultural Economy. My efforts would often span across a massive range of industries, organisations and issues. I have an excellent knowledge of the workings of Government, but also aparticular understanding of the issues effecting the Digital & Cultural industries. Indeed, I continue to support a network designed to bring those issues to the attention of Government.
 
 ### Communication
-Although in the world of public affairs & communictations I have always been the digital expert, in the digital world I have been able to apply my communications training to great effect: from better presenting projects, to explaining complex concepts to my colleagues.
+Although in the world of public affairs & communictations I have always been the digital geek, in the digital world I have been able to apply my communications training to great effect: from better presenting projects, to explaining complex concepts to my colleagues.
 
 ### Teamwork
 During my time in Parliament, I capably played every role in the small team, eventually becoming the most senior member of staff. I managed junior staff and interns. I also have experience in a small private company as it transitioned to a medium-sized company, briefly serving as Acting Director of Operations during this turblent time.
