@@ -46,7 +46,7 @@ Working for Bob&Co also required a good grasp of financing, I drafted budgets fo
 **Makers Academy**
 (May 2016 - Aug 2016)  
 Makers Academy afforded me the opportunity to learn best practices and also learn about the coding world, surrounded by some truly great programmers.
-I developed my curiosity and hungry passion for code, with focus on becoming an independent learner and problem-solver, with a firm grounding in the principles of software craftsmanship
+I developed my curiosity and hungry passion for code, with focus on becoming an independent learner and problem-solver, with a firm grounding in the principles of software craftsmanship.
 - OOP, TDD, SOLID, MVC, DDD
 
 **Physics 2:1 (BSc & ARCS): Imperial College London**
@@ -66,7 +66,7 @@ I became Acting Director of Operations during a staff maternity leave, overseein
 
 **Office of the Minister for Creative & Digital Industries**
 (Nov 2008 - Nov 2014)  
-*SENIOR PARLIAMENTARY Advisor*  
+*SENIOR PARLIAMENTARY ADVISOR*  
 I managed the Parliamentary office of the Minster from the date of his appointment – interviewing, training and managing all junior staff and around 50 interns. I also developed expertise across Government, and in the digital, media, and arts sectors.
 
 **North Square Blue Oak**
