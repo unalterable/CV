@@ -12,33 +12,33 @@ Despite my experience in other fields, I have chosen to be a developer. In the p
 ## Skills & Characteristics
 
 #### Coding
-I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and NodeJS. I also have effective experience with HTML, CSS, & PHP.
+I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and Node.js. I also have effective experience with HTML, CSS, & PHP.
 
 I have always loved learning about new technologies. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
 In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux and decided to change from a Macbook. I love making little gadgets and widgets, and discovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
 
 | Project | Summary | Technologies | Undertaken |  
 |----|----|----|----|  
-| [CACIN](http://cacin.co.uk) | A web app to organise a social network (event management, invitations, contact data maintainence) | Ruby on Rails, RSpec | Alone |  
-| [Varys](https://github.com/unalterable/varys) | A TDD search engine (made in 1.5 weeks); my final group project at Makers Academy  | Ruby, Sinatra (Search Engine), Python, Scrapy (Web Spider), RSpec NoseTest  | Team of 4 Junior Devs & Pair Programming |
-| [Rails Enquiries](https://github.com/unalterable/rails_enquiries/commits/master) | A TDD Rails plugin gem (made in 4 days), designed to help developers understand how their Rails app fits together | Ruby on Rails | (Team Leader) Team of 4 Junior Devs with Pair Programming |
+| [CACIN](http://cacin.co.uk) | A web app to organise a social network (event management, invitations, contact data maintenance) (currently in use) | Ruby on Rails, RSpec | Alone |  
+| [Varys](https://github.com/unalterable/varys) | A TDD search engine (made in 1.5 weeks); my final group project at Makers Academy  | Python, Scrapy (Web Spider), NoseTest, Ruby, Sinatra (Search Engine), RSpec  | Team of 4 Junior Devs & Pair Programming |
+| [Rails Enquiries](https://github.com/unalterable/rails_enquiries/commits/master) | A TDD Ruby on Rails plugin gem (made in 4 days), designed to help developers understand how their Rails app fits together | Ruby on Rails | (Team Leader) Team of 4 Junior Devs with Pair Programming |
 | [MakersBnB](https://github.com/mtaner/airbnb) | A TDD clone of AirBnB | Ruby, Sinatra | Team of 4 with Pair Programming |
 |[JustMeat](https://github.com/elena-vi/JustMeat/commits/master)| A simplistic Just Eat clone | Ruby on Rails, RSpec | Team of 4 Junior Devs |
-| [Bob & Co Website](http://bobandco.co.uk/oliver-diamond)| A fully customised theme coded on top of Wordpress (currently in use) | PHP (Wordpress), Javascript, HTML, CSS | Alone (without training) |
+| [Bob & Co](http://bobandco.co.uk/oliver-diamond)| A fully customised website theme coded on top of Wordpress made at the direction of non-technical directors (currently in use) | PHP (Wordpress), Javascript, HTML, CSS | Alone (without training) |
 | Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a political email | Java, Eclipse, XML | Alone (without training)
 
 #### Other Expertise
-For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for the Digital and Cultural Economy. My efforts would often span across a massive range of industries, organisations and issues. I have an excellent knowledge of the workings of Government, but also aparticular understanding of the issues effecting the Digital & Cultural industries. Indeed, I continue to support a network designed to bring those issues to the attention of Government.
+For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for the Digital and Cultural Economy. My efforts would often span across a massive range of industries, organisations and issues. I have an excellent knowledge of the workings of Government, but also a particular understanding of the issues affecting the Digital & Cultural industries. Indeed, I continue to support a network designed to bring those issues to the attention of Government.
 
 #### Communication
-Although in the world of public affairs & communictations I have always been the digital geek, in the digital world I have been able to apply my communications training to great effect: from better presenting projects, to explaining complex concepts to my colleagues.
+Although in the world of public affairs & communitations I have always been the digital geek, in the digital world I have been able to apply my communications training to great effect: from better presenting projects, to explaining complex concepts to my colleagues.
 
 #### Teamwork
-During my time in Parliament, I capably played every role in the small team, eventually becoming the most senior member of staff. I managed junior staff and interns. I also have experience in a small private company as it transitioned to a medium-sized company, briefly serving as Acting Director of Operations during this turblent time.
+During my time in Parliament, I capably played every role in the small team, eventually becoming the most senior member of staff. I managed junior staff and interns. I also have experience in a small private company as it transitioned to a medium-sized company, briefly serving as Acting Director of Operations during this turbluent time.
 
 #### Finance
-During my years in Westminster, I was afforded the opportunity for sabaticals in the private sector. I worked at a $13bn hedge fund, in the margin dept & the IT dept. I also worked for a China-focussed event-driven brokerage, focussing on macro changes in the Chinese economy.
-Working for Bob&Co also required a good grasp of financing, I drafted budgets for large projects and undertook a massive cost saving excersise across the company's IT infrastructure.
+During my years in Westminster, I was afforded the opportunity for sabbaticals in the private sector. I worked at a $13bn hedge fund, in the margin dept & the IT dept. I also worked for a China-focussed event-driven brokerage, focussing on macro changes in the Chinese economy.
+Working for Bob&Co also required a good grasp of financing, I drafted budgets for large projects and undertook a massive cost saving exercise across the company's IT infrastructure.
 
 
 ## Education
@@ -60,14 +60,14 @@ I focussed on astrophysics, plasma physics, and the practicalities of nuclear fu
 **Bob & Co**
 (Nov 2014 - May 2016)    
 *HEAD OF DIGITAL, COMMUNICATIONS, AND RESEARCH*    
-A small, independent developer, producer, and financier in film, TV, theatre, and other media sectors. I oversaw all the technologal, research & communication efforts by the company, which included recognition as Digital Consultant for the movie 'Jet Trash' ([IMDB](http://www.imdb.com/name/nm5829457/)), a company investment.  
+A small, independent developer, producer, and financier in film, TV, theatre, and other media sectors. I oversaw all the technological, research & communication efforts by the company, which included recognition as Digital Consultant for the movie 'Jet Trash' ([IMDB](http://www.imdb.com/name/nm5829457/)), a company investment.  
 I also coded (and maintained) the Bob &amp; Co website, and 4 other websites for company subsidiaries or projects.  
 I became Acting Director of Operations during a staff maternity leave, overseeing audit and efficiency measures in the IT, telecoms, and other office admin budgets.
 
 **Office of the Minister for Creative & Digital Industries**
 (Nov 2008 - Nov 2014)  
 *SENIOR PARLIAMENTARY ADVISOR*  
-I managed the Parliamentary office of the Minster from the date of his appointment – interviewing, training and managing all junior staff and around 50 interns. I also developed expertise across Government, and in the digital, media, and arts sectors.
+I managed the Parliamentary office of the Minister from the date of his appointment – interviewing, training and managing all junior staff and around 50 interns. I also developed expertise across Government, and in the digital, media, and arts sectors.
 
 **North Square Blue Oak**
 (Jan 2014 - Mar 2014)  
@@ -99,7 +99,7 @@ I develop and maintain relationships with many key players in the arts, technolo
 Taught basic computer, smartphone and other technology use to struggling members of the Lambeth community (many of whom did not have English as a first language). Runners-up for the [CILIP Libraries Change Lives Award 2012](http://www.cilip.org.uk/cilip/advocacy-awards-and-projects/awards-and-medals/libraries-change-lives-award/past-libraries).
 
 **MUSIC &amp; PUBLIC PERFORMANCES AS A CHORISTER**   
-Sang to grade 8, played the saxophone to a grade 7, the violin to grade 4, and the piano to grade 2. I received the only music scholarship to Abingdon School. Performed in Christ Church Cathedral Choir for over six years in cathedral services in Oxford, at St. Paul’s Cathedral (in front of HM The Queen), Birmingham ICC, Royal Albert Hall, Royal Festival Hall. Toured abroad to many places, including an extensive tour of the USA; and also Japan; Germany; France; and Brazil.
+Sang to grade 8, played the saxophone to a grade 7, the violin to grade 4, and the piano to grade 2. I received the only music scholarship to Abingdon School. Performed in Christ Church Cathedral Choir for over six years in cathedral services in Oxford, at St. Paul's Cathedral (in front of HM The Queen), Birmingham ICC, Royal Albert Hall, Royal Festival Hall. Toured abroad to many places, including an extensive tour of the USA; and also Japan; Germany; France; and Brazil.
 
 **Tennis**  
 I'm a member of Wimbledon Lawn Tennis Club (not AELTC, but older). I play regularly with a variety of partners and am coached professionally.
