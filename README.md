@@ -6,7 +6,7 @@ A man of science and tech, who broke free from a musical education to study phys
 
 After attending Makers Academy, an intense coding bootcamp, I turned the amateur-level skills of an enthusiastic hobbyist into those of a full-stack developer. I have accelerated my learning process for new technologies, honed the skills and values that make a professional programmer, and have come to truly love the developer community.
 
-Despite my experience in other fields, I have chosen to be a developer: In the past I have been driven by a desire to contribute to worthy projects, whether a political campaign, or a movie production, and while I hope to continue to draw on those motivations, problem solving through code has the power to engage me, whatever the project.
+Despite my experience in other fields, I have chosen to be a developer. In the past I have been driven by a desire to contribute to worthy projects, whether a political campaign, or a movie production, and while I hope to continue to draw on those motivations, problem solving through code has the power to engage me, whatever the project.
 
 
 ## Skills & Characteristics
