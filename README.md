@@ -14,8 +14,8 @@ Despite my experience in other fields, I have chosen to be a developer. In the p
 #### Coding
 I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and Node.js. I also have effective experience with HTML, CSS, & PHP.
 
-I have always loved learning about new technologies. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
-In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux and decided to change from a Macbook. I love making little gadgets and widgets, and discovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
+I have always loved learning about new technologies. I coded from the age of 10, with Lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
+In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux and decided to change from a MacBook. I love making little gadgets and widgets, and discovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
 
 | Project | Summary | Technologies | Undertaken |  
 |----|----|----|----|  
@@ -34,7 +34,7 @@ For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for 
 Although in the world of public affairs & communitations I have always been the digital geek, in the digital world I have been able to apply my communications training to great effect: from better presenting projects, to explaining complex concepts to my colleagues.
 
 #### Teamwork
-During my time in Parliament, I capably played every role in the small team, eventually becoming the most senior member of staff. I managed junior staff and interns. I also have experience in a small private company as it transitioned to a medium-sized company, briefly serving as Acting Director of Operations during this turbluent time.
+During my time in Parliament, I capably played every role in the small team, eventually becoming the most senior member of staff. I managed junior staff and interns. I also have experience in a small private company as it transitioned to a medium-sized company, briefly serving as Acting Director of Operations during this turbulent time.
 
 #### Finance
 During my years in Westminster, I was afforded the opportunity for sabbaticals in the private sector. I worked at a $13bn hedge fund, in the margin dept & the IT dept. I also worked for a China-focussed event-driven brokerage, focussing on macro changes in the Chinese economy.
@@ -88,7 +88,7 @@ I wrote and researched policy documents on local and national issues; wrote spee
 ## Interests
 
 *Current:*  
-**CACIN - The Poltical Creative Industries Network**
+**CACIN - The Political Creative Industries Network**
 (2008 - present)  
 *DIRECTOR*  
 I develop and maintain relationships with many key players in the arts, technology and creative sectors, and manage regular events across the UK.
