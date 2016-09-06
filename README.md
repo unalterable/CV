@@ -59,7 +59,7 @@ I focussed on astrophysics, plasma physics, and the practicalities of nuclear fu
 
 **Bob & Co**
 (Nov 2014 - May 2016)    
-*HEAD OF COMMUNICATIONS, RESEARCH, AND DIGITAL*    
+*HEAD OF DIGITAL, COMMUNICATIONS, AND RESEARCH*    
 A small, independent developer, producer, and financier in film, TV, theatre, and other media sectors. I oversaw all the technologal, research & communication efforts by the company, which included recognition as Digital Consultant for the movie 'Jet Trash' ([IMDB](http://www.imdb.com/name/nm5829457/)), a company investment.  
 I also coded (and maintained) the Bob &amp; Co website, and 4 other websites for company subsidiaries or projects.  
 I became Acting Director of Operations during a staff maternity leave, overseeing audit and efficiency measures in the IT, telecoms, and other office admin budgets.
@@ -72,7 +72,7 @@ I managed the Parliamentary office of the Minster from the date of his appointme
 **North Square Blue Oak**
 (Jan 2014 - Mar 2014)  
 *SABBATICAL ANALYST*  
-A short sabbatical in this brokerage and corporate finance boutique, assesing new corporate finance opportunities.
+A short sabbatical in this brokerage and corporate finance boutique, assessing new corporate finance opportunities.
 
 **CQS Asset Management**
 (Feb 2013 - Mar 2013)  
