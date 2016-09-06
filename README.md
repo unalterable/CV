@@ -11,7 +11,7 @@ Despite my experience in other fields, I have chosen to be a developer. In the p
 
 ## Skills & Characteristics
 
-### Coding
+#### Coding
 I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and NodeJS. I also have effective experience with HTML, CSS, & PHP.
 
 I have always loved learning about new technologies. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
@@ -27,16 +27,16 @@ In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Pyt
 | [Bob & Co Website](http://bobandco.co.uk/oliver-diamond)| A fully customised theme coded on top of Wordpress (currently in use) | PHP (Wordpress), Javascript, HTML, CSS | Alone (without training) |
 | Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a political email | Java, Eclipse, XML | Alone (without training)
 
-### Other Expertise
+#### Other Expertise
 For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for the Digital and Cultural Economy. My efforts would often span across a massive range of industries, organisations and issues. I have an excellent knowledge of the workings of Government, but also aparticular understanding of the issues effecting the Digital & Cultural industries. Indeed, I continue to support a network designed to bring those issues to the attention of Government.
 
-### Communication
+#### Communication
 Although in the world of public affairs & communictations I have always been the digital geek, in the digital world I have been able to apply my communications training to great effect: from better presenting projects, to explaining complex concepts to my colleagues.
 
-### Teamwork
+#### Teamwork
 During my time in Parliament, I capably played every role in the small team, eventually becoming the most senior member of staff. I managed junior staff and interns. I also have experience in a small private company as it transitioned to a medium-sized company, briefly serving as Acting Director of Operations during this turblent time.
 
-### Finance
+#### Finance
 During my years in Westminster, I was afforded the opportunity for sabaticals in the private sector. I worked at a $13bn hedge fund, in the margin dept & the IT dept. I also worked for a China-focussed event-driven brokerage, focussing on macro changes in the Chinese economy.
 Working for Bob&Co also required a good grasp of financing, I drafted budgets for large projects and undertook a massive cost saving excersise across the company's IT infrastructure.
 
