@@ -15,7 +15,7 @@ Despite my experience in other fields, I have chosen to be a developer. In the p
 I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and NodeJS. I also have effective experience with HTML, CSS, & PHP.
 
 I have always loved learning about new technologies. I coded from the age of 10, with lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
-In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux and decided to change from a Macbook. I love making little gadgets and widgets, and descovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
+In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux and decided to change from a Macbook. I love making little gadgets and widgets, and discovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
 
 | Project | Summary | Technologies | Undertaken |  
 |----|----|----|----|  
