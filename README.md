@@ -25,7 +25,7 @@ In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Pyt
 | [MakersBnB](https://github.com/mtaner/airbnb) | A TDD clone of AirBnB | Ruby, Sinatra | Team of 4 with Pair Programming |
 |[JustMeat](https://github.com/elena-vi/JustMeat/commits/master)| A simplistic Just Eat clone | Ruby on Rails, RSpec | Team of 4 Junior Devs |
 | [Bob & Co](http://bobandco.co.uk/oliver-diamond)| A fully customised website theme coded on top of Wordpress made at the direction of non-technical directors (currently in use) | PHP (Wordpress), Javascript, HTML, CSS | Alone (without training) |
-| Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a political email | Java, Eclipse, XML | Alone (without training)
+| Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a weekly political round-up email | Java, Eclipse, XML | Alone (without training)
 
 #### Other Expertise
 For 8 years I worked for the Rt. Hon. Ed Vaizey MP, who became the Minister for the Digital and Cultural Economy. My efforts would often span across a massive range of industries, organisations and issues. I have an excellent knowledge of the workings of Government, but also a particular understanding of the issues affecting the Digital & Cultural industries. Indeed, I continue to support a network designed to bring those issues to the attention of Government.
