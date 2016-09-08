@@ -1,4 +1,5 @@
 # Oliver Diamond
+This CV is also available on my [website](http://oliverdiamond.org/), for better viewing.
 
 [About](#oliver-diamond) | [Skills](#skills--characteristics) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
