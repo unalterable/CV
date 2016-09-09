@@ -16,7 +16,7 @@ Despite my experience in other fields, I have chosen to be a developer. In the p
 I am a full-stack developer with an affinity for Ruby, Ruby on Rails, Python, and Node.js. I also have effective experience with HTML, CSS, & PHP.
 
 I have always loved learning about new technologies. I coded from the age of 10, with Lego electronics, BASIC at 13, PHP web-mmorpgs in a team at 15. Somewhere along the line, I threw in some HTML5 and CSS.
-In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love Linux and decided to change from a MacBook. I love making little gadgets and widgets, and discovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
+In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Python in 2 days. And even a bit of C. I also learned to use Vim, and fell in love with Linux and decided to change from a MacBook. I love making little gadgets and widgets, and discovering my PC through the Linux operating system, I even found a way to make it work while all my colleagues continued with Apple.
 
 | Project | Summary | Technologies | Undertaken |  
 |----|----|----|----|  
@@ -24,6 +24,7 @@ In the atmosphere of Makers Academy I taught myself Javascript in 3 days and Pyt
 | [Varys](https://github.com/unalterable/varys) | A TDD search engine (made in 1.5 weeks); my final group project at Makers Academy  | Python, Scrapy (Web Spider), NoseTest, Ruby, Sinatra (Search Engine), RSpec  | Team of 4 Junior Devs & Pair Programming |
 | [Rails Enquiries](https://github.com/unalterable/rails_enquiries/commits/master) | A TDD Ruby on Rails plugin gem (made in 4 days), designed to help developers understand how their Rails app fits together | Ruby on Rails | (Team Leader) Team of 4 Junior Devs with Pair Programming |
 | [MakersBnB](https://github.com/mtaner/airbnb) | A TDD clone of AirBnB | Ruby, Sinatra | Team of 4 with Pair Programming |
+| [Basic DOM Framework](https://github.com/unalterable) | A simple JS framework, built as a library for a To Do list app, with the purpose of also later being used to build a news summary app. | JavaScript, Mocha (on Node.js) | Full Pair Programming, i.e.team of 2 |
 |[JustMeat](https://github.com/elena-vi/JustMeat/commits/master)| A simplistic Just Eat clone | Ruby on Rails, RSpec | Team of 4 Junior Devs |
 | [Bob & Co](http://bobandco.co.uk/oliver-diamond)| A fully customised website theme coded on top of Wordpress made at the direction of non-technical directors (currently in use) | PHP (Wordpress), Javascript, HTML, CSS | Alone (without training) |
 | Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a weekly political round-up email | Java, Eclipse, XML | Alone (without training)
