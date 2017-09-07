@@ -81,7 +81,7 @@ A $13bn credit hedge fund: in liability management analysis with collateral spec
 ### Makers Academy (May 2016 – Aug 2016)
 Makers Academy afforded me the opportunity to learn professional best practices, surrounded by some truly great programmers. I developed my curiosity and hungry passion for code, with focus on becoming an independent learner and problem-solver. They offer a firm grounding in the principles of software craftsmanship: OOP, TDD, SOLID, BDD.
 
-### Physics 2:1 (BSc & ARCS): Imperial College London (Oct 2005 to July 2008)
+### Physics 2:1 (BSc & ARCS): Imperial College London (Oct 2005 – July 2008)
 I focussed on computational simulations, astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source.
 *Final Year Degree Project (C++)*
 I received 93% for an computer simulation investigation into the process of evolution. I wrote the program from scratch, modelling biological systems. I was praised particularly for analysing great amounts of data, spotting patterns and anomalies, presenting them accessibly and quantifying the results in a manner that the department had never seen before.
