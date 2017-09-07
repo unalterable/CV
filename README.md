@@ -100,13 +100,13 @@ I developed and maintained relationships with many key players in the tech & cre
 Taught basic computer, smartphone and other technology use to struggling members of the Lambeth community (many of whom did not have English as a first language). Runners-up for the [CILIP Libraries Change Lives Award 2012](http://www.cilip.org.uk/cilip/advocacy-awards-and-projects/awards-and-medals/libraries-change-lives-award/past-libraries).
 
 #### Other:
-*Tech Tinkering* – I’m a Linux user at home (Fedora, Debian, Ubuntu, Mint). I have a home-made NAS made with a Raspberry Pi, and a homemade server – also running on Raspbian. I code small apps (usually in ES6 now) and run them from that server.
+**Tech Tinkering** – I’m a Linux user at home (Fedora, Debian, Ubuntu, Mint). I have a home-made NAS made with a Raspberry Pi, and a homemade server – also running on Raspbian. I code small apps (usually in ES6 now) and run them from that server.
 
-*Music* – I have an extensively musical education. I received the music scholarship to my secondary school. I sang in a Christ Church Cathedral Choir Oxford, and played the Saxophone, Violin, Piano, and guitar.
+**Music** – I have an extensively musical education. I received the music scholarship to my secondary school. I sang in a Christ Church Cathedral Choir Oxford, and played the Saxophone, Violin, Piano, and guitar.
 
-*Tennis* – I play regularly with a variety of partners and am coached professionally.
+**Tennis** – I play regularly with a variety of partners and am coached professionally.
 
-*Cooking* – I love cooking and spend a great deal of time in the kitchen. My recipes are popular on [Instagram](http://instagram.com/diamondoliver).
+**Cooking** – I love cooking and spend a great deal of time in the kitchen. My recipes are popular on [Instagram](http://instagram.com/diamondoliver).
 
 
 
