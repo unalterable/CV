@@ -1,6 +1,6 @@
 # Oliver Diamond
 
-[About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
+[About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests) | [Projects](#projects)
 
 I am a full-stack developer with many years programming experience across many languages and technologies. Recently I have been developing FX services for HSBC’s commercial corporate payments application (JS, Clojure, Java).
 
@@ -89,13 +89,13 @@ I received 93% for an computer simulation investigation into the process of evol
 
 ## Interests
 
-#### CACIN – The Political Creative Industries Network
-*DIRECTOR* (2008 – 2017)
+#### CACIN – The Political Creative Industries Network (2008 – 2017)
+*DIRECTOR*
 
 I developed and maintained relationships with many key players in the tech & creative sectors, and ran regular panels and drinks receptions across the UK, centering on issues from the digital single market to diversity in the media.
 
-#### The Digital Bazaar, Tate South Lambeth Library
-*FOUNDING VOLUNTEER & IT EXPERT* (2009 – 2013)
+#### The Digital Bazaar, Tate South Lambeth Library (2009 – 2013)
+*FOUNDING VOLUNTEER & IT EXPERT*
 
 Taught basic computer, smartphone and other technology use to struggling members of the Lambeth community (many of whom did not have English as a first language). Runners-up for the [CILIP Libraries Change Lives Award 2012](http://www.cilip.org.uk/cilip/advocacy-awards-and-projects/awards-and-medals/libraries-change-lives-award/past-libraries).
 
