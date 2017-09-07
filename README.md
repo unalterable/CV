@@ -1,6 +1,6 @@
 # Oliver Diamond
 
-[About](#oliver-diamond) | [Skills](#skills--characteristics) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
 
 I am a full-stack developer with many years programming experience across many languages and technologies. Recently I have been developing FX services for HSBC’s commercial corporate payments application (JS, Clojure, Java).
 
@@ -23,17 +23,17 @@ Devops (Fast release cycles); Agile (lots of retrospecting); Test Driven Develop
 
 ### Other Expertise
 
-*Government:* I have 8 years experience across Government, public policy, and the digital & creative industries. I continue to support a political network for those sector.
+**Government:** I have 8 years experience across Government, public policy, and the digital & creative industries. I continue to support a political network for those sector.
 
-*Finance:* Aside from my work in HSBC’s FX department, I have also worked in a credit trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (Finance: Aside from my work in HSBC’s FX department, I have also worked in a credit trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (analysing media and tech opportunities).
+**Finance:** Aside from my work in HSBC’s FX department, I have also worked in a credit trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (Finance: Aside from my work in HSBC’s FX department, I have also worked in a credit trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (analysing media and tech opportunities).
 
-*Communications:* I have worked on public policy campaigns, political communications, and film & theatre marketing.
+**Communications:** I have worked on public policy campaigns, political communications, and film & theatre marketing.
 
 
 ## Work History
 
-#### HSBC GFX
-*DIGITAL TRANSFORMATION SOFTWARE DEVELOPER* (Dec 2017 – Sept 2017)
+### HSBC GFX (Dec 2017 – Sept 2017)
+*DIGITAL TRANSFORMATION SOFTWARE DEVELOPER*
 
 We delivered a suite of microservices in Clojure and ES6 and interfacing them with a legacy Java6 / dojo.js monolith.
 
@@ -41,43 +41,47 @@ Our team of 6 worked from within the modernising agile-embracing GFX department 
 
 I worked in a mordern coding environment: devops, daily release cycles, developer anarchy, microservices, test-driven development and client behaviour driven development, with an ability to write code and have it in production in the same day. However I simultaneously worked on the HSBCnet application, being developed on a quarterly release cycle, with manual testing, and old SDLCs.
 
-#### Makers Consultants
-*SOFTWARE ENGINEERING CONSULTANT* (Dec 2015 – Present)
+### Makers Consultants (Dec 2015 – Present)
+*SOFTWARE ENGINEERING CONSULTANT*
+
 I was involved from the beginning in Makers Academy’s Consultancy arm. I have remit to work on Makers’ education-based platform when not with a corporate partners (HSBC, Tek Systems, & Allegis Group).
 
-#### Bob & Co
-*HEAD OF DIGITAL AND COMMUNICATIONS* (Nov 2014 – May 2016)
+### Bob & Co (Nov 2014 – May 2016)
+*HEAD OF DIGITAL AND COMMUNICATIONS*
+
 A small media (film, TV, theatre) developer, and financier. I ran the technological, research & communication efforts. I also built (and maintained) the company website, and other applications (Java & JS) for their partners & subsidiaries.
 
 I later became Acting Director of Operations during a staff maternity leave, tasked with extensive audit and efficiency efforts in the IT, telecoms, and other office admin budgets.
 
-#### SUMS Film & Media
-*DIGITAL & TECHNOLOGY CONSULTANT* (Aug 2015 – Dec 2015)
+### SUMS Film & Media (Aug 2015 – Dec 2015)
+*DIGITAL & TECHNOLOGY CONSULTANT*
+
 An independent film producer. I advised the chief executive on their projects’ digital strategies (see IMDB). I worked on various applications, including marketing websites (PHP & HTML5).
 
-#### Office of the Digital & Cultural Minister
-*SENIOR PARLIAMENTARY ADVISOR* (Nov 2008 – Nov 2014)
+### Office of the Digital & Cultural Minister (Nov 2008 – Nov 2014)
+*SENIOR PARLIAMENTARY ADVISOR*
+
 I managed the Parliamentary office of Rt. Hon. Ed Vaizey MP from the date of his Ministerial appointment. I oversaw the running of the office, interviewing, training and managing all junior staff. I worked on campaigns such as improving Wifi provision in public libraries and bringing coding into the national curriculum.
 
 Aside from working on digital & media policy, I was given a wide remit and free-reign within the office, so I often used programmed office solutions, developing wordpress applications (PHP) for websites and databasing, and MS access applications for automating emails and training.
 
-#### North Square Blue Oak
-*SABBATICAL ANALYST* (Jan 2014 – Mar 2014)
+### North Square Blue Oak (Jan 2014 – Mar 2014)
+*SABBATICAL ANALYST*
+
 A brokerage and corporate finance boutique, assessing new corporate finance opportunities in the digital sectors. The company drew heavily on my technological expertise in assessing potential investments.
 
-#### CQS Asset Management
-*MARGINS DEPT ANALYST & DEVELOPMENT INTERN* (Feb 2013 – Mar 2013)
+### CQS Asset Management (Feb 2013 – Mar 2013)
+*MARGINS DEPT ANALYST & DEVELOPMENT INTERN*
+
 A $13bn credit hedge fund: in liability management analysis with collateral specialists (creating an app to assess marginal risks); and also with the strategic IT team, developing an (credit price monitor) application (C#).
 
 
 ## Education
 
-### Makers Academy
-(May 2016 – Aug 2016)
+### Makers Academy (May 2016 – Aug 2016)
 Makers Academy afforded me the opportunity to learn professional best practices, surrounded by some truly great programmers. I developed my curiosity and hungry passion for code, with focus on becoming an independent learner and problem-solver. They offer a firm grounding in the principles of software craftsmanship: OOP, TDD, SOLID, BDD.
 
-### Physics 2:1 (BSc & ARCS): Imperial College London
-(Oct 2005 to July 2008)
+### Physics 2:1 (BSc & ARCS): Imperial College London (Oct 2005 to July 2008)
 I focussed on computational simulations, astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source.
 *Final Year Degree Project (C++)*
 I received 93% for an computer simulation investigation into the process of evolution. I wrote the program from scratch, modelling biological systems. I was praised particularly for analysing great amounts of data, spotting patterns and anomalies, presenting them accessibly and quantifying the results in a manner that the department had never seen before.
@@ -87,10 +91,12 @@ I received 93% for an computer simulation investigation into the process of evol
 
 #### CACIN – The Political Creative Industries Network
 *DIRECTOR* (2008 – 2017)
+
 I developed and maintained relationships with many key players in the tech & creative sectors, and ran regular panels and drinks receptions across the UK, centering on issues from the digital single market to diversity in the media.
 
 #### The Digital Bazaar, Tate South Lambeth Library
 *FOUNDING VOLUNTEER & IT EXPERT* (2009 – 2013)
+
 Taught basic computer, smartphone and other technology use to struggling members of the Lambeth community (many of whom did not have English as a first language). Runners-up for the [CILIP Libraries Change Lives Award 2012](http://www.cilip.org.uk/cilip/advocacy-awards-and-projects/awards-and-medals/libraries-change-lives-award/past-libraries).
 
 #### Other:
