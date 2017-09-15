@@ -1,6 +1,13 @@
 # Oliver Diamond
 
-[About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests) | [Projects](#projects)
+• Physics, 2:1, Imperial College London
+• Last Position: HSBC Digital Transformation Team
+• Degree Specialism: Computational Simulations
+• Professional Training: Makers Academy
+• Experience in Finance, Politics, Media, Comms
+• Passions: functional programming, devops, Linux, fast delivery, clean code, & developer anarchy.
+
+[About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
 
 I am a full-stack developer with many years programming experience across many languages and technologies. Recently I have been developing FX services for HSBC’s commercial corporate payments application (JS, Clojure, Java).
 
@@ -107,18 +114,3 @@ Taught basic computer, smartphone and other technology use to struggling members
 **Tennis** – I play regularly with a variety of partners and am coached professionally.
 
 **Cooking** – I love cooking and spend a great deal of time in the kitchen. My recipes are popular on [Instagram](http://instagram.com/diamondoliver).
-
-
-
-## Open Source Projects:
-
-| Project | Summary | Technologies | Undertaken |  
-|----|----|----|----|  
-| [CACIN](http://cacin.co.uk) | A web app to organise a social network (event management, invitations, contact data maintenance) (currently in use) | Ruby on Rails, RSpec | Alone |  
-| [Varys](https://github.com/unalterable/varys) | A TDD search engine (made in 1.5 weeks); my final group project at Makers Academy  | Python, Scrapy (Web Spider), NoseTest, Ruby, Sinatra (Search Engine), RSpec  | Team of 4 Junior Devs & Pair Programming |
-| [Rails Enquiries](https://github.com/unalterable/rails_enquiries/commits/master) | A TDD Ruby on Rails plugin gem (made in 4 days), designed to help developers understand how their Rails app fits together | Ruby on Rails | (Team Leader) Team of 4 Junior Devs with Pair Programming |
-| [MakersBnB](https://github.com/mtaner/airbnb) | A TDD clone of AirBnB | Ruby, Sinatra | Team of 4 with Pair Programming |
-| [Basic DOM Framework](https://github.com/unalterable) | A simple JS framework, built as a library for a To Do list app, with the purpose of also later being used to build a news summary app. | JavaScript, Mocha (on Node.js) | Full Pair Programming, i.e.team of 2 |
-|[JustMeat](https://github.com/elena-vi/JustMeat/commits/master)| A simplistic Just Eat clone | Ruby on Rails, RSpec | Team of 4 Junior Devs |
-| [Bob & Co](http://bobandco.co.uk/oliver-diamond)| A fully customised website theme coded on top of Wordpress made at the direction of non-technical directors (currently in use) | PHP (Wordpress), Javascript, HTML, CSS | Alone (without training) |
-| Email Writer | A non-tested, non-version-controlled, amateur application for Android. The app automates the summary and collation of news stories for a weekly political round-up email | Java, Eclipse, XML | Alone (without training)
