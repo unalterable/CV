@@ -1,11 +1,11 @@
 # Oliver Diamond
 
-• Physics, 2:1, Imperial College London
-• Last Position: HSBC Digital Transformation Team
-• Degree Specialism: Computational Simulations
-• Professional Training: Makers Academy
-• Experience in Finance, Politics, Media, Comms
-• Passions: functional programming, devops, Linux, fast delivery, clean code, & developer anarchy.
+* Physics, 2:1, Imperial College London
+* Last Position: HSBC Digital Transformation Team
+* Degree Specialism: Computational Simulations
+* Professional Training: Makers Academy
+* Experience in Finance, Politics, Media, Comms
+* Passions: functional programming, devops, Linux, fast delivery, clean code, & developer anarchy.
 
 [About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
 
