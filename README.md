@@ -1,7 +1,7 @@
 # Oliver Diamond
 
-* Physics, 2:1, Imperial College London
 * Last Position: HSBC Digital Transformation Team
+* Physics, 2:1, Imperial College London
 * Degree Specialism: Computational Simulations
 * Professional Training: Makers Academy
 * Experience in Finance, Politics, Media, Comms
