@@ -1,54 +1,60 @@
 # Oliver Diamond
 
-* Last Position: HSBC Digital Transformation Team
-* Physics, 2:1, Imperial College London
-* Degree Specialism: Computational Simulations
-* Professional Training: Makers Academy
-* Experience in Finance, Politics, Media, Comms
-* Passions: functional programming, devops, Linux, fast delivery, clean code, & developer anarchy.
+I am a full-stack (mostly JS: React & Node) developer with a eclectic career. Experienced in approaches that emphasise small composable apps, devops, fast & frequent delivery, clean code, and developer anarchy.
+
+* Current Position: Tes Software Engineer
+* Specialisms: Node, React, Mongo, Microservices
+* Passions: Linux, Functional Programming, Devops, Spacemacs (Emacs + Vim)
+* Physics, 2:1, Imperial College London (specialism: Computational Simulations)
+* Extensive experience outside programming: Finance, Politics, Media, Communications
 
 [About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
 
-I am a full-stack developer with many years programming experience across many languages and technologies. Recently I have been developing FX services for HSBC’s commercial corporate payments application (JS, Clojure, Java).
 
-I’m passionate about: ES6, Lisps & functional programming; Linux architecture; and approaches that emphasise devops, fast delivery, clean code, & developer anarchy.
+I have been programming since I was 13 – building web MMORPGs with friends (HTML & PHP) with 1000s of players. At university (2:1 Physics) I spent 2 years programming a bio-ecosystem simulation (C++, OO design).
 
-I have been programming since I was 13 – building web MMORPGs with friends (HTML & PHP) with 1000s of players. At university (2:1 Physics) I spent 2 years programming a bio-ecosystem simulation (C++). I have worked in politics, film production, TV & theatre development, and finance. I pushed and built tech solutions in all of these industries from simple web apps (Node, Python, Ruby), to finance analysis apps (Java). I trained myself at a top dev bootcamp, focussing on professional full-stack skills and modern methodologies.
+Not always a programmer though, I have worked in politics, film production, TV & theatre development, and finance. However, I pushed and built tech solutions in all of these industries from simple web apps (Node, Python, Ruby), to finance & news analysis apps (Java). I trained and then worked for a top dev bootcamp, focussing on professional full-stack skills and modern methodologies.
 
-Recently at HSBC, our small team brought modern disciplines to a heavily regulated corporate environment. We demonstrated the benefits of devops, agile, continuous delivery, microservice architectures, constant retrospection and developer freedom, whilst always focussing on releasing value to clients.
+Currently I work for Tes (formerly the Times Education Supplement) and (most recently) for HSBC and Makers Academy. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosphies: devops, agile, microservices architectures, continuous delivery, constant retrospection and developer anarchy, whilst always focussing on releasing value to clients.
 
 
 ## Skills
 
 #### Programming:
-JavaScript (ES6, Node, Express, Dojo, JQuery, RxJS, Selenium) 6+ yrs; Clojure (Compojure) 1+ yrs; Java (Android, Spring) 2+ yrs; Ruby (Rails) 1yr; C++ 3+ yrs; Python; HTML, HTML5, CSS, LESS; DB (MySQL PostgreSQL, Mongo);
+JavaScript (Latest ES, Node, React, Express, Dojo, JQuery, RxJS, Selenium) 6+ yrs; Clojure (Compojure) 1+ yrs; Java (Android, Spring) 2+ yrs, Ruby (Rails); Python (Django); C++; CSS, SCSS; DB (MySQL, PostgreSQL, Mongo);
 #### Delivery/Ops:
-Continuous Delivery (Jenkins, TeamCity, Heroku); Version control: Git, RTC; Linux (Redhat, Debian, Ubuntu); Bash; Networking (DNS, TCP/IP, HTTPS); Eclipse, IntelliJ, Android Studio (though I prefer a text editor where possible);
+Microservices (Docker, RabbitMQ, Kubernetes, AWS); Continuous Delivery (Jenkins, TeamCity, Heroku); Version control: Git, RTC; Linux (Redhat, Debian, Ubuntu); Networking (DNS, TCP/IP, HTTPS); Spacemacs (Emacs + Vim), Eclipse, IntelliJ, Android Studio;
 #### Methodologies:
-Devops (Fast release cycles); Agile (lots of retrospecting); Test Driven Development; Behaviour Driven Development; Pairing; Microservices Architectures; MVC Architectures;
-
+Devops (Fast release cycles); Agile (lots of retrospecting); Test Driven Development; Behaviour Driven Development; Pair Programming; Microservices Architectures;
 
 ### Other Expertise
 
-**Government:** I have 8 years experience across Government, public policy, and the digital & creative industries. I continue to support a political network for those sector.
+**Government:** I have 8 years experience across Government, public policy, and the digital & creative industries. I became leader of a Minister’s Parliamentary Office, and I continue to support a political network that I helped to found. 
 
-**Finance:** Aside from my work in HSBC’s FX department, I have also worked in a credit trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (Finance: Aside from my work in HSBC’s FX department, I have also worked in a credit trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (analysing media and tech opportunities).
+**Finance:** Aside from my tech work in HSBC’s FX department, I have also worked in a credit-trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (analysing media and tech investments).
 
-**Communications:** I have worked on public policy campaigns, political communications, and film & theatre marketing.
+**Communications:** I have worked on public policy campaigns, in political communications, and in film & theatre marketing. I have written articles for national newspapers, press releases for a Minister of State, and organised political conferences.
 
 
 ## Work History
 
+### Tes Engineering (Oct 2017 - Present)
+*SOFTWARE ENGINEER*
+
+An old company (~100 years), Tes provide teaching resources and solutions. Now that online is the focus of the business, we have recently ungone a massive update to their engineering department.
+
+We’re now almost totally microservices, with a JS stack (React, Node, Mongo, funcational design), everything is Dockerised and running on AWS.
+
+We embrace continuous & fast delivery, agile, devops, open-source, developer anarchy, tiny teams (2-4), remote first,  frequent retrospection, hackdays, and a focus on team building and the education of junior developers. 
+
 ### HSBC GFX (Dec 2017 – Sept 2017)
 *DIGITAL TRANSFORMATION SOFTWARE DEVELOPER*
 
-We delivered a suite of microservices in Clojure and ES6 and interfacing them with a legacy Java6 / dojo.js monolith.
+My team of 6 delivered a suite of microservices in Clojure and ES6 and patched them into a legacy Java 6 / dojo.js monolith.
 
-Our team of 6 worked from within the modernising agile-embracing GFX department of the investment bank, but worked to bring their products into HSBCnet, one of the world’s most used commercial payment applications.
+We worked from within the modernising, agile-embracing, daily-delivering, foriegn-exchange department of the investment bank, to bring their products into HSBCnet, one of the world’s most used commercial payment applications, developed on a quarterly release cycle, with manual testing, and old SDLCs - straddling the politics of the 2 worlds.
 
-I worked in a mordern coding environment: devops, daily release cycles, developer anarchy, microservices, test-driven development and client behaviour driven development, with an ability to write code and have it in production in the same day. However I simultaneously worked on the HSBCnet application, being developed on a quarterly release cycle, with manual testing, and old SDLCs.
-
-### Makers Consultants (Dec 2015 – Present)
+### Makers Academy (Dec 2015 – Sept 2017)
 *SOFTWARE ENGINEERING CONSULTANT*
 
 I was involved from the beginning in Makers Academy’s Consultancy arm. I have remit to work on Makers’ education-based platform when not with a corporate partners (HSBC, Tek Systems, & Allegis Group).
@@ -56,21 +62,14 @@ I was involved from the beginning in Makers Academy’s Consultancy arm. I have 
 ### Bob & Co (Nov 2014 – May 2016)
 *HEAD OF DIGITAL AND COMMUNICATIONS*
 
-A small media (film, TV, theatre) developer, and financier. I ran the technological, research & communication efforts. I also built (and maintained) the company website, and other applications (Java & JS) for their partners & subsidiaries.
+A small media (film, TV, theatre) developer, and financier. I ran the technological, research & communication efforts. I also built (and maintained) the company website (single-handed), and other applications (Java & JS) for their partners & subsidiaries.
 
 I later became Acting Director of Operations during a staff maternity leave, tasked with extensive audit and efficiency efforts in the IT, telecoms, and other office admin budgets.
 
 ### SUMS Film & Media (Aug 2015 – Dec 2015)
 *DIGITAL & TECHNOLOGY CONSULTANT*
 
-An independent film producer. I advised the chief executive on their projects’ digital strategies (see IMDB). I worked on various applications, including marketing websites (PHP & HTML5).
-
-### Office of the Digital & Cultural Minister (Nov 2008 – Nov 2014)
-*SENIOR PARLIAMENTARY ADVISOR*
-
-I managed the Parliamentary office of Rt. Hon. Ed Vaizey MP from the date of his Ministerial appointment. I oversaw the running of the office, interviewing, training and managing all junior staff. I worked on campaigns such as improving Wifi provision in public libraries and bringing coding into the national curriculum.
-
-Aside from working on digital & media policy, I was given a wide remit and free-reign within the office, so I often used programmed office solutions, developing wordpress applications (PHP) for websites and databasing, and MS access applications for automating emails and training.
+An independent film producer. I directly advised the Cheif Executive on their projects’ digital strategies (see [IMDB](http://www.imdb.com/name/nm5829457/) ← I’m three clicks from Tom Cruise). I worked on various applications, including marketing websites (PHP).
 
 ### North Square Blue Oak (Jan 2014 – Mar 2014)
 *SABBATICAL ANALYST*
@@ -80,17 +79,23 @@ A brokerage and corporate finance boutique, assessing new corporate finance oppo
 ### CQS Asset Management (Feb 2013 – Mar 2013)
 *MARGINS DEPT ANALYST & DEVELOPMENT INTERN*
 
-A $13bn credit hedge fund: in liability management analysis with collateral specialists (creating an app to assess marginal risks); and also with the strategic IT team, developing an (credit price monitor) application (C#).
+A $13bn credit hedge fund: in liability management analysis with collateral specialists (creating an app to  assess marginal risks); and also with the strategic IT team, developing a credit price monitoring application (C#).
+
+### Office of the Digital & Cultural Minister (Nov 2008 – Nov 2014)
+*SENIOR PARLIAMENTARY ADVISOR*
+
+I managed the Parliamentary Office of Rt. Hon. Ed Vaizey MP from the date of his Ministerial appointment. I oversaw the running of the office, interviewing, training and managing all junior staff. I worked on campaigns such as improving Wifi provision in public libraries and bringing coding into the national curriculum. 
+
+Aside from working on digital & media policy, I was given a wide remit and free-reign within the office, so I often  programmed solutions to office problems, developing wordpress applications (PHP) for websites and databasing needs, and MS Access applications for automating emails and training.
 
 
 ## Education
 
-### Makers Academy (May 2016 – Aug 2016)
-Makers Academy afforded me the opportunity to learn professional best practices, surrounded by some truly great programmers. I developed my curiosity and hungry passion for code, with focus on becoming an independent learner and problem-solver. They offer a firm grounding in the principles of software craftsmanship: OOP, TDD, SOLID, BDD.
-
 ### Physics 2:1 (BSc & ARCS): Imperial College London (Oct 2005 – July 2008)
 I focussed on computational simulations, astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source.
+
 *Final Year Degree Project (C++)*
+
 I received 93% for an computer simulation investigation into the process of evolution. I wrote the program from scratch, modelling biological systems. I was praised particularly for analysing great amounts of data, spotting patterns and anomalies, presenting them accessibly and quantifying the results in a manner that the department had never seen before.
 
 
@@ -99,18 +104,18 @@ I received 93% for an computer simulation investigation into the process of evol
 #### CACIN – The Political Creative Industries Network (2008 – 2017)
 *DIRECTOR*
 
-I developed and maintained relationships with many key players in the tech & creative sectors, and ran regular panels and drinks receptions across the UK, centering on issues from the digital single market to diversity in the media.
+I developed and maintained relationships with many key players in the tech & creative sectors on behalf Damian Collins MP, the Rt Hon Minister Ed Vaizey MP, and the Conservative Party HQ. I ran regular panels, drinks receptions and conferences across the UK, focussing on issues from the digital single market to diversity in the media.
 
 #### The Digital Bazaar, Tate South Lambeth Library (2009 – 2013)
 *FOUNDING VOLUNTEER & IT EXPERT*
 
 Taught basic computer, smartphone and other technology use to struggling members of the Lambeth community (many of whom did not have English as a first language). Runners-up for the [CILIP Libraries Change Lives Award 2012](http://www.cilip.org.uk/cilip/advocacy-awards-and-projects/awards-and-medals/libraries-change-lives-award/past-libraries).
 
-#### Other:
-**Tech Tinkering** – I’m a Linux user at home (Fedora, Debian, Ubuntu, Mint). I have a home-made NAS made with a Raspberry Pi, and a homemade server – also running on Raspbian. I code small apps (usually in ES6 now) and run them from that server.
 
-**Music** – I have an extensively musical education. I received the music scholarship to my secondary school. I sang in a Christ Church Cathedral Choir Oxford, and played the Saxophone, Violin, Piano, and guitar.
+#### Other:
+**Music** – I have an intensely musical education. A music scholarship took me through secondary school. I sang in Christ Church Cathedral Choir, Oxford (we sang the credits to Blackadder and Vicar of Dibley; we performed in front of HM the queen; and we toured the USA, Japan, Germany, France, and Brazil). I also played the Saxophone, Violin, Piano, and guitar.
+
+**Cooking** – I love cooking and spend a great deal of time in the kitchen. I have been paid to cook at events. And my recipes are popular on [Instagram](http://instagram.com/diamondoliver).
 
 **Tennis** – I play regularly with a variety of partners and am coached professionally.
 
-**Cooking** – I love cooking and spend a great deal of time in the kitchen. My recipes are popular on [Instagram](http://instagram.com/diamondoliver).
