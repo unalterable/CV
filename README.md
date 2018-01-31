@@ -41,7 +41,7 @@ Devops (Fast release cycles); Agile (lots of retrospecting); Test Driven Develop
 ### Tes Engineering (Oct 2017 - Present)
 *SOFTWARE ENGINEER*
 
-An old company (~100 years), Tes provide teaching resources and solutions. Now that online is the focus of the business, we have recently ungone a massive update to their engineering department.
+An old company (~100 years), Tes provide teaching resources and solutions. Now that 'online' is the focus of the business, we have recently ungone a massive update to our engineering department.
 
 We’re now almost totally microservices, with a JS stack (React, Node, Mongo, funcational design), everything is Dockerised and running on AWS.
 
