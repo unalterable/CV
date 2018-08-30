@@ -1,92 +1,87 @@
 # Oliver Diamond
 
-I am a full-stack (mostly JS: React & Node) developer with a eclectic career. Experienced in approaches that emphasise small composable apps, devops, fast & frequent delivery, clean code, and developer anarchy.
+I am a full-stack (mostly JS: React & Node) software developer with a eclectic career. Experienced in approaches that emphasise microservices, devops, CI/CD, good code design, and programmer anarchy (à la Fred George).
 
-* Current Position: Tes Software Engineer
+* Current Position: Senior Engineer, Sky
 * Specialisms: Node, React, Mongo, Microservices
 * Passions: Linux, Functional Programming, Devops, Spacemacs (Emacs + Vim)
-* Physics, 2:1, Imperial College London (specialism: Computational Simulations)
+* Physics 2:1, Imperial College London (Focus: Computational Simulations)
 * Extensive experience outside programming: Finance, Politics, Media, Communications
 
 [About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
 
 
-I have been programming since I was 13 – building web MMORPGs with friends (HTML & PHP) with 1000s of players. At university (2:1 Physics) I spent 2 years programming a bio-ecosystem simulation (C++, OO design).
+I feel like I have always been a programmer: I learned PHP at age 12 to make web games with friends; and I spent 2 years building a bio-ecosystem simulator for university whilst most of my fellow students built real-world experiments. 
 
-Not always a programmer though, I have worked in politics, film production, TV & theatre development, and finance. However, I pushed and built tech solutions in all of these industries from simple web apps (Node, Python, Ruby), to finance & news analysis apps (Java). I trained and then worked for a top dev bootcamp, focussing on professional full-stack skills and modern methodologies.
+I was not always a professional engineer though: I have worked in politics, film production, TV & theatre development, and finance. But I pushed and built tech solutions in all of these industries: from simple web apps, to finance & news analysis engines.
 
-Currently I work for Tes (formerly the Times Education Supplement) and (most recently) for HSBC and Makers Academy. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosphies: devops, agile, microservices architectures, continuous delivery, constant retrospection and developer anarchy, whilst always focussing on releasing value to clients.
+Currently I work for Sky and (most recently) for TES (formerly the Times Education Supplement) and HSBC. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosphies: small iterations, microservices architectures, devops, agile, continuous delivery, constant retrospection and programmer anarchy, whilst always focussing on releasing value to clients.
 
 
 ## Skills
 
 #### Programming:
-JavaScript (Latest ES, Node, React, Express, Dojo, JQuery, RxJS, Selenium) 6+ yrs; Clojure (Compojure) 1+ yrs; Java (Android, Spring) 2+ yrs, Ruby (Rails); Python (Django); C++; CSS, SCSS; DB (MySQL, PostgreSQL, Mongo);
+JavaScript (Latest ES, Node, React, Express, Mongo, Selenium) 7+ yrs; Clojure (Compojure) 1+ yrs; Java (Android, Spring) 2+ yrs, Ruby (Rails); Python (Django); C++; CSS, SCSS; DB (MySQL, PostgreSQL, Mongo);
 #### Delivery/Ops:
-Microservices (Docker, RabbitMQ, Kubernetes, AWS); Continuous Delivery (Jenkins, TeamCity, Heroku); Version control: Git, RTC; Linux (Redhat, Debian, Ubuntu); Networking (DNS, TCP/IP, HTTPS); Spacemacs (Emacs + Vim), Eclipse, IntelliJ, Android Studio;
+Microservices (Kubernetes, Docker, RabbitMQ); Continuous Delivery (Jenkins); Version control (Git, RTC); Linux (Ubuntu, Centos, Fedora); Spacemacs (Emacs + Vim);
 #### Methodologies:
-Devops (Fast release cycles); Agile (lots of retrospecting); Test Driven Development; Behaviour Driven Development; Pair Programming; Microservices Architectures;
+Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD, fast release cycles); Test Driven Development; Behaviour Driven Development; Pair Programming; Microservices Architectures;
 
 ### Other Expertise
 
 **Government:** I have 8 years experience across Government, public policy, and the digital & creative industries. I became leader of a Minister’s Parliamentary Office, and I continue to support a political network that I helped to found. 
 
-**Finance:** Aside from my tech work in HSBC’s FX department, I have also worked in a credit-trading hedge fund, a Chinese event-driven brokerage, and a corporate finance boutique (analysing media and tech investments).
+**Finance:** Aside from my tech work in HSBC’s FX dept, I have worked as an analyst at CQS Asset Managment (credit-trading hedge fund) and NSBO (Chinese event-driven brokerage and corporate finance boutique).
 
-**Communications:** I have worked on public policy campaigns, in political communications, and in film & theatre marketing. I have written articles for national newspapers, press releases for a Minister of State, and organised political conferences.
+**Communications:** I have worked on public policy campaigns, in political comms, and in film & theatre marketing. I have written articles for national newspapers, press releases for Government Ministers, and organised political conferences.
 
 
 ## Work History
 
-### Tes Engineering (Oct 2017 - Present)
+### Sky (May 2018 - present)
+*SENIOR SOFTWARE ENGINEER*
+
+Our team develops and maintains a suite of services that allow Sky's Editors to generate live content and then serve it to ~6 million Set-Top-Boxes across the UK, Ireland, Germany, and Italy. As the team's Senior Engineer, I am responsible for directing the dev team's efforts; I prompt choices in technology, practices, and methodologies, aiming to facilitate my colleagues in their work; and I mentor the junior members of the team in their career progression. As one of the only full-stack teams in Sky, we have concerns from host infrastructures to client browsers.
+
+### Tes Engineering (Oct 2017 - May 2018)
 *SOFTWARE ENGINEER*
 
-An old company (~100 years), Tes provide teaching resources and solutions. Now that 'online' is the focus of the business, we have recently ungone a massive update to our engineering department.
-
-We’re now almost totally microservices, with a JS stack (React, Node, Mongo, funcational design), everything is Dockerised and running on AWS.
-
-We embrace continuous & fast delivery, agile, devops, open-source, developer anarchy, tiny teams (2-4), remote first,  frequent retrospection, hackdays, and a focus on team building and the education of junior developers. 
+An old company (>100 years), Tes provide teaching resources and solutions. The company converted to microservices, with (mostly) a MERN stack (MongoDB, Express, React, Node), all Dockerised and running on AWS. We embrace continuous delivery, agile, devops, open-source, programmer anarchy, tiny teams (2-4), remote first, frequent retrospection, hackdays, and a focus on team building and the education of junior developers.
 
 ### HSBC GFX (Dec 2017 – Sept 2017)
 *DIGITAL TRANSFORMATION SOFTWARE DEVELOPER*
 
-My team of 6 delivered a suite of microservices in Clojure and ES6 and patched them into a legacy Java 6 / dojo.js monolith.
+My team of 6 delivered a suite of microservices in Clojure and ES6 and patched them into a legacy Java 6 / dojo.js monolith. We worked from within the modern foriegn-exchange department of the investment bank, bringing their products into HSBCnet: one of the world’s most used commercial payment platforms, developed on a quarterly release cycle, with manual testing, and old SDLCs.
 
-We worked from within the modernising, agile-embracing, daily-delivering, foriegn-exchange department of the investment bank, to bring their products into HSBCnet, one of the world’s most used commercial payment applications, developed on a quarterly release cycle, with manual testing, and old SDLCs - straddling the politics of the 2 worlds.
-
-### Makers Academy (Dec 2015 – Sept 2017)
+### Makers Academy (May 2016 – Sept 2017)
 *SOFTWARE ENGINEERING CONSULTANT*
 
-I was involved from the beginning in Makers Academy’s Consultancy arm. I have remit to work on Makers’ education-based platform when not with a corporate partners (HSBC, Tek Systems, & Allegis Group).
+London's top dev bootcamp. I was involved from the beginning in Makers Academy’s consultancy arm which aimed to take freshly trained junior devs and place them in teams with Makers Academy corporate partners.
 
 ### Bob & Co (Nov 2014 – May 2016)
 *HEAD OF DIGITAL AND COMMUNICATIONS*
 
-A small media (film, TV, theatre) developer, and financier. I ran the technological, research & communication efforts. I also built (and maintained) the company website (single-handed), and other applications (Java & JS) for their partners & subsidiaries.
-
-I later became Acting Director of Operations during a staff maternity leave, tasked with extensive audit and efficiency efforts in the IT, telecoms, and other office admin budgets.
+A small media (film, TV, theatre) developer, and financier. I ran the technological, research & communication efforts. I also built (and maintained) the company website (single-handed), and other applications (Java & JS) for their partners & subsidiaries. I later became Acting Director of Operations during a staff maternity leave, tasked with extensive audit and efficiency efforts in the IT, telecoms, and other office admin budgets.
 
 ### SUMS Film & Media (Aug 2015 – Dec 2015)
 *DIGITAL & TECHNOLOGY CONSULTANT*
 
-An independent film producer. I directly advised the Cheif Executive on their projects’ digital strategies (see [IMDB](http://www.imdb.com/name/nm5829457/) ← I’m three clicks from Tom Cruise). I worked on various applications, including marketing websites (PHP).
+An independent film producer. I directly advised the Cheif Executive on their projects’ digital strategies (see [IMDB](http://www.imdb.com/name/nm5829457/) ← I’m three clicks from Tom Cruise :-P ). I worked on various applications, including marketing websites (PHP).
 
 ### North Square Blue Oak (Jan 2014 – Mar 2014)
-*SABBATICAL ANALYST*
+*ANALYST*
 
-A brokerage and corporate finance boutique, assessing new corporate finance opportunities in the digital sectors. The company drew heavily on my technological expertise in assessing potential investments.
+A brokerage and corporate finance boutique, assessing new opportunities in the digital and media sectors. The company drew heavily on my technological expertise in assessing potential investments.
 
 ### CQS Asset Management (Feb 2013 – Mar 2013)
-*MARGINS DEPT ANALYST & DEVELOPMENT INTERN*
+*MARGINS ANALYST & SOFTWARE DEVELOPER*
 
-A $13bn credit hedge fund: in liability management analysis with collateral specialists (creating an app to  assess marginal risks); and also with the strategic IT team, developing a credit price monitoring application (C#).
+A $13bn credit hedge fund: I worked in liability management analysis with collateral specialists (creating an app to  assess marginal risks); and also with the strategic IT team, developing a credit price monitoring application (C#).
 
 ### Office of the Digital & Cultural Minister (Nov 2008 – Nov 2014)
 *SENIOR PARLIAMENTARY ADVISOR*
 
 I managed the Parliamentary Office of Rt. Hon. Ed Vaizey MP from the date of his Ministerial appointment. I oversaw the running of the office, interviewing, training and managing all junior staff. I worked on campaigns such as improving Wifi provision in public libraries and bringing coding into the national curriculum. 
-
-Aside from working on digital & media policy, I was given a wide remit and free-reign within the office, so I often  programmed solutions to office problems, developing wordpress applications (PHP) for websites and databasing needs, and MS Access applications for automating emails and training.
 
 
 ## Education
