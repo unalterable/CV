@@ -1,10 +1,9 @@
 # Oliver Diamond
-
-I am a full-stack (mostly JS: React & Node) software developer with a eclectic career. Experienced in approaches that emphasise microservices, devops, CI/CD, good code design, and programmer anarchy (à la Fred George).
+I am a full-stack (mostly JS: React & Node) software developer with a eclectic career. Experienced in approaches that emphasise microservices, devops, CI/CD, good code design, and focussing developers on business value.
 
 * Current Position: Senior Engineer, Sky
 * Specialisms: Node, React, Mongo, Microservices
-* Passions: Linux, Functional Programming, Devops, Spacemacs (Emacs + Vim)
+* Passions: Linux, training juniors, functional programming, devops, Spacemacs
 * Physics 2:1, Imperial College London (Focus: Computational Simulations)
 * Extensive experience outside programming: Finance, Politics, Media, Communications
 
@@ -12,11 +11,9 @@ I am a full-stack (mostly JS: React & Node) software developer with a eclectic c
 
 
 I feel like I have always been a programmer: I learned PHP at age 12 to make web games with friends; and I spent 2 years building a bio-ecosystem simulator for university whilst most of my fellow students built real-world experiments. 
-
 I was not always a professional engineer though: I have worked in politics, film production, TV & theatre development, and finance. But I pushed and built tech solutions in all of these industries: from simple web apps, to finance & news analysis engines.
-
-Currently I work for Sky and (most recently) for TES (formerly the Times Education Supplement) and HSBC. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosphies: small iterations, microservices architectures, devops, agile, continuous delivery, constant retrospection and programmer anarchy, whilst always focussing on releasing value to clients.
-
+Currently I work for Sky and (most recently) for TES (formerly the Times Education Supplement) and HSBC. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosophies: small iterations, microservices architectures, devops, agile, continuous delivery, constant retrospection and programmer anarchy, whilst always focussing on releasing value to clients.
+In my personal life, I have been building a Kubernetes lab in my attic, creating a Node.js focussed CI/CD plaform creation tool, to allow for easy deployment and maintenance of home-made applications onto a home server.
 
 ## Skills
 
@@ -41,7 +38,7 @@ Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD,
 ### Sky (May 2018 - present)
 *SENIOR SOFTWARE ENGINEER*
 
-Our team develops and maintains a suite of services that allow Sky's Editors to generate live content and then serve it to ~6 million Set-Top-Boxes across the UK, Ireland, Germany, and Italy. As the team's Senior Engineer, I am responsible for directing the dev team's efforts; I prompt choices in technology, practices, and methodologies, aiming to facilitate my colleagues in their work; and I mentor the junior members of the team in their career progression. As one of the only full-stack teams in Sky, we have concerns from host infrastructures to client browsers.
+Our team develops and maintains a suite of services that allow Sky's Editors to generate live content and then serve it to ~6 million Set-Top-Boxes across the UK, Ireland, Germany, and Italy. As the team's Senior Engineer, I am responsible for directing the dev team's efforts; I prompt choices in technology, practices, and methodologies, aiming to facilitate my colleagues’ work. As one of the only full-stack teams in Sky, we have concerns from host infrastructures to client browsers. I have also focussed on mentoring the junior and beginner developers across Sky – aiding in career progression and basic programming; leading workshops on everything from clean code, new technologies, and new methodologies.
 
 ### Tes Engineering (Oct 2017 - May 2018)
 *SOFTWARE ENGINEER*
