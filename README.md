@@ -1,5 +1,5 @@
 # Oliver Diamond
-I am a full-stack (mostly JS: React & Node) software developer with a eclectic career. Experienced in approaches that emphasise microservices, devops, CI/CD, good code design, and focussing developers on business value.
+I am a full-stack (mostly JS: React & Node) software developer with an eclectic career. Experienced in approaches that emphasise microservices, devops, CI/CD, good code design, and focussing developers on business value.
 
 * Current Position: Senior Engineer, Sky
 * Specialisms: Node, React, Mongo, Microservices
