@@ -1,28 +1,25 @@
 # Oliver Diamond
-I am a full-stack (mostly JS: React & Node) software developer with an eclectic career. Experienced in approaches that emphasise microservices, devops, CI/CD, good code design, and focussing developers on business value.
+I am a full-stack (mostly JS: React & Node) senior software developer with an eclectic career. Experienced in technologies up and down the stack, and in approaches that emphasise microservices, devops, CI/CD, good code design, and focussing developers on business value.
 
-* Current Position: Senior Engineer, Sky
-* Specialisms: Node, React, Mongo, Microservices
-* Passions: Linux, training juniors, functional programming, devops, Spacemacs
+* Current Position: Lead Developer, Tempo UK.
+* Specialisms: Node, React, Mongo, Microservices, Kubernetes, mentoring juniors
+* Passions: Linux, functional programming, point-free devops, Spacemacs
 * Physics 2:1, Imperial College London (Focus: Computational Simulations)
 * Extensive experience outside programming: Finance, Politics, Media, Communications
 
 [About](#oliver-diamond) | [Skills](#skills) | [Work History](#work-history) | [Education](#education) | [Interests](#interests)
 
-
-I feel like I have always been a programmer: I learned PHP at age 12 to make web games with friends; and I spent 2 years building a bio-ecosystem simulator for university whilst most of my fellow students built real-world experiments. 
-I was not always a professional engineer though: I have worked in politics, film production, TV & theatre development, and finance. But I pushed and built tech solutions in all of these industries: from simple web apps, to finance & news analysis engines.
-Currently I work for Sky and (most recently) for TES (formerly the Times Education Supplement) and HSBC. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosophies: small iterations, microservices architectures, devops, agile, continuous delivery, constant retrospection and programmer anarchy, whilst always focussing on releasing value to clients.
+Currently I work for Tempo UK, and prior to that for Sky, TES (formerly the Times Education Supplement) and HSBC. I’ve worked predominantly with the latest Javascript technologies, pushing the following philosophies: small iterations, microservices architectures, devops, agile, continuous delivery, constant retrospection and programmer anarchy, whilst always focussing on releasing value to clients and improving the codebase for future developers.
 In my personal life, I have been building a Kubernetes lab in my attic, creating a Node.js focussed CI/CD plaform creation tool, to allow for easy deployment and maintenance of home-made applications onto a home server.
 
 ## Skills
 
 #### Programming:
-JavaScript (Latest ES, Node, React, Express, Mongo, Selenium) 7+ yrs; Clojure (Compojure) 1+ yrs; Java (Android, Spring) 2+ yrs, Ruby (Rails); Python (Django); C++; CSS, SCSS; DB (MySQL, PostgreSQL, Mongo);
+JavaScript (Latest ES6, Node, React, Redux, Express, Mongo, Selenium, Material UI) 7+ yrs; Clojure (Compojure) 1+ yrs; Java (Android, Spring) 2+ yrs, Ruby (Rails); Python (Django); C++; CSS, SCSS; DB (MySQL, PostgreSQL, Mongo); GraphQL
 #### Delivery/Ops:
 Microservices (Kubernetes, Docker, RabbitMQ); Continuous Delivery (Jenkins); Version control (Git, RTC); Linux (Ubuntu, Centos, Fedora); Spacemacs (Emacs + Vim);
 #### Methodologies:
-Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD, fast release cycles); Test Driven Development; Behaviour Driven Development; Pair Programming; Microservices Architectures;
+Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD, fast release cycles); Test Driven Development; Pair Programming; Microservices Architectures;
 
 ### Other Expertise
 
@@ -35,7 +32,15 @@ Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD,
 
 ## Work History
 
-### Sky (May 2018 - present)
+### Tempo UK (July 2019 - present)
+*LEAD DEVELOPER*
+
+At Tempo I am responsible for the entire digital product. I manage a team of 6+ full-stack React/Node.js developers, with always ~50% junior/beginners.
+My focus has been on taking Tempo from a small start-up to a medium-sized tech company. While always being available to mentor and assist members of my team, I have concentrated efforts on introducing and leveraging technologies and practices that scale effectively: fostering a culture of collaboration, functional programming, end-to-end testing, clean code, domain driven design, continuous delivery, microservices, Kubernetes, GraphQl, event driven architectures.
+I am solely responsible for our devops efforts - using Kubernetes to break apart a monolith into microservices, and operate a customized and fully featured CI/CD platform.
+My team have done this while continuing to deliver value - and demonstrating to investors the platform's ability to scale with only small increases in infrastructure costs.
+
+### Sky (May 2018 - July 2019)
 *SENIOR SOFTWARE ENGINEER*
 
 Our team develops and maintains a suite of services that allow Sky's Editors to generate live content and then serve it to ~6 million Set-Top-Boxes across the UK, Ireland, Germany, and Italy. As the team's Senior Engineer, I am responsible for directing the dev team's efforts; I prompt choices in technology, practices, and methodologies, aiming to facilitate my colleagues’ work. As one of the only full-stack teams in Sky, we have concerns from host infrastructures to client browsers. I have also focussed on mentoring the junior and beginner developers across Sky – aiding in career progression and basic programming; leading workshops on everything from clean code, new technologies, and new methodologies.
