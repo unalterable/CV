@@ -1,9 +1,10 @@
 # Oliver Diamond
-I am a full-stack (mostly JS: React & Node) senior software developer with an eclectic career. Experienced in technologies up and down the stack, and in approaches that emphasise microservices, devops, CI/CD, good code design, and focussing developers on business value.
+I am a senior (lead) full-stack Node/React software developer with an eclectic career. I have experience in many languages and technologies - and in approaches that emphasise microservices, devops, CI/CD, small iterations, and FP.
+Recently I have been focussing on how to grow dev teams, and how to prioritise business value vs tech debt.
 
 * Current Position: Lead Developer, Tempo UK.
 * Specialisms: Node, React, Mongo, Microservices, Kubernetes, mentoring juniors
-* Passions: Linux, functional programming, point-free devops, Spacemacs
+* Passions: Linux, functional programming, point-free programming, devops, Spacemacs
 * Physics 2:1, Imperial College London (Focus: Computational Simulations)
 * Extensive experience outside programming: Finance, Politics, Media, Communications
 
@@ -23,11 +24,11 @@ Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD,
 
 ### Other Expertise
 
-**Government:** I have 8 years experience across Government, public policy, and the digital & creative industries. I became leader of a Minister’s Parliamentary Office, and I continue to support a political network that I helped to found. 
+**Government:** I have 8 years experience across Government, public policy, and the digital & creative industries. 
 
-**Finance:** Aside from my tech work in HSBC’s FX dept, I have worked as an analyst at CQS Asset Managment (credit-trading hedge fund) and NSBO (Chinese event-driven brokerage and corporate finance boutique).
+**Finance:** Aside from my tech work in HSBC’s FX dept, I have experience as an analyst in hedge-funds and brokerages.
 
-**Communications:** I have worked on public policy campaigns, in political comms, and in film & theatre marketing. I have written articles for national newspapers, press releases for Government Ministers, and organised political conferences.
+**Communications:** I have worked on public policy campaigns, in political comms, and in film & theatre marketing.
 
 
 ## Work History
@@ -36,24 +37,23 @@ Agile (Scrum, Kanban, programmer anarchy, lots of retrospecting); Devops (CI/CD,
 *LEAD DEVELOPER*
 
 At Tempo I am responsible for the entire digital product. I manage a team of 6+ full-stack React/Node.js developers, with always ~50% junior/beginners.
-My focus has been on taking Tempo from a small start-up to a medium-sized tech company. While always being available to mentor and assist members of my team, I have concentrated efforts on introducing and leveraging technologies and practices that scale effectively: fostering a culture of collaboration, functional programming, end-to-end testing, clean code, domain driven design, continuous delivery, microservices, Kubernetes, GraphQl, event driven architectures.
-I am solely responsible for our devops efforts - using Kubernetes to break apart a monolith into microservices, and operate a customized and fully featured CI/CD platform.
+I am taking Tempo from a start-up to a medium-sized tech company. While always being available to mentor and assist members of my team, I have concentrated efforts on introducing and leveraging technologies and practices that scale effectively. I have fostered a culture of collaboration, functional programming, end-to-end testing, clean code, domain driven design, continuous delivery, microservices, Kubernetes, GraphQL, event driven architectures.
 My team have done this while continuing to deliver value - and demonstrating to investors the platform's ability to scale with only small increases in infrastructure costs.
 
 ### Sky (May 2018 - July 2019)
 *SENIOR SOFTWARE ENGINEER*
 
-Our team develops and maintains a suite of services that allow Sky's Editors to generate live content and then serve it to ~6 million Set-Top-Boxes across the UK, Ireland, Germany, and Italy. As the team's Senior Engineer, I am responsible for directing the dev team's efforts; I prompt choices in technology, practices, and methodologies, aiming to facilitate my colleagues’ work. As one of the only full-stack teams in Sky, we have concerns from host infrastructures to client browsers. I have also focussed on mentoring the junior and beginner developers across Sky – aiding in career progression and basic programming; leading workshops on everything from clean code, new technologies, and new methodologies.
+Our team developed and maintained a suite of services that allow Sky's Editors to generate and publish scheduled menu changes and then serve it to ~6 million Set-Top-Boxes across the UK, Ireland, Germany, and Italy. As the team's Senior Engineer, I was responsible for directing the dev team's efforts; I prompt choices in technology, practices, and methodologies, aiming to facilitate my colleagues’ work. As one of the only full-stack teams in Sky, we had concerns  from hosting infrastructure to api resilience, to browser comparability. I also focussed on mentoring the junior and beginner developers across Sky – teaching beginners and leading workshops on clean code, and new technologies.
 
 ### Tes Engineering (Oct 2017 - May 2018)
 *SOFTWARE ENGINEER*
 
-An old company (>100 years), Tes provide teaching resources and solutions. The company converted to microservices, with (mostly) a MERN stack (MongoDB, Express, React, Node), all Dockerised and running on AWS. We embrace continuous delivery, agile, devops, open-source, programmer anarchy, tiny teams (2-4), remote first, frequent retrospection, hackdays, and a focus on team building and the education of junior developers.
+Tes (once the Times Education Supplement) provides teaching resources to most teachers in the UK. The company used microservices,  with (mostly) a MERN stack (MongoDB, Express, React, Node), and had invested heavily in the concept of micro-frontends.  Teams and services were divided by domain concerns, and I worked on reference checking, supply teacher sourcing and an end-to-end timesheets application.
 
 ### HSBC GFX (Dec 2017 – Sept 2017)
 *DIGITAL TRANSFORMATION SOFTWARE DEVELOPER*
 
-My team of 6 delivered a suite of microservices in Clojure and ES6 and patched them into a legacy Java 6 / dojo.js monolith. We worked from within the modern foriegn-exchange department of the investment bank, bringing their products into HSBCnet: one of the world’s most used commercial payment platforms, developed on a quarterly release cycle, with manual testing, and old SDLCs.
+My team of 6 delivered a suite of microservices in Clojure and ES6 and patched them into a legacy Java 6 / dojo.js monolith. We worked from within the modern foriegn-exchange department of the investment bank (GFX), making their products available via HSBCnet: one of the world’s most used commercial payment platforms.
 
 ### Makers Academy (May 2016 – Sept 2017)
 *SOFTWARE ENGINEERING CONSULTANT*
@@ -68,39 +68,7 @@ A small media (film, TV, theatre) developer, and financier. I ran the technologi
 ### SUMS Film & Media (Aug 2015 – Dec 2015)
 *DIGITAL & TECHNOLOGY CONSULTANT*
 
-An independent film producer. I directly advised the Cheif Executive on their projects’ digital strategies (see [IMDB](http://www.imdb.com/name/nm5829457/) ← I’m three clicks from Tom Cruise :-P ). I worked on various applications, including marketing websites (PHP).
-
-### North Square Blue Oak (Jan 2014 – Mar 2014)
-*ANALYST*
-
-A brokerage and corporate finance boutique, assessing new opportunities in the digital and media sectors. The company drew heavily on my technological expertise in assessing potential investments.
-
-### CQS Asset Management (Feb 2013 – Mar 2013)
-*MARGINS ANALYST & SOFTWARE DEVELOPER*
-
-A $13bn credit hedge fund: I worked in liability management analysis with collateral specialists (creating an app to  assess marginal risks); and also with the strategic IT team, developing a credit price monitoring application (C#).
-
-### Office of the Digital & Cultural Minister (Nov 2008 – Nov 2014)
-*SENIOR PARLIAMENTARY ADVISOR*
-
-I managed the Parliamentary Office of Rt. Hon. Ed Vaizey MP from the date of his Ministerial appointment. I oversaw the running of the office, interviewing, training and managing all junior staff. I worked on campaigns such as improving Wifi provision in public libraries and bringing coding into the national curriculum. 
-
-
-## Education
-
-### Physics 2:1 (BSc & ARCS): Imperial College London (Oct 2005 – July 2008)
-I focussed on computational simulations, astrophysics, plasma physics, and the practicalities of nuclear fusion energy as a future energy source.
-
-*Final Year Degree Project (C++)*
-
-I received 93% for an computer simulation investigation into the process of evolution. I wrote the program from scratch, modelling biological systems. I was praised particularly for analysing great amounts of data, spotting patterns and anomalies, presenting them accessibly and quantifying the results in a manner that the department had never seen before.
-
-
-## Interests
-
-#### CACIN – The Political Creative Industries Network (2008 – 2017)
-*DIRECTOR*
-
+An independent film producer. I directly advised the Cheif Executive on their projec
 I developed and maintained relationships with many key players in the tech & creative sectors on behalf Damian Collins MP, the Rt Hon Minister Ed Vaizey MP, and the Conservative Party HQ. I ran regular panels, drinks receptions and conferences across the UK, focussing on issues from the digital single market to diversity in the media.
 
 #### The Digital Bazaar, Tate South Lambeth Library (2009 – 2013)
